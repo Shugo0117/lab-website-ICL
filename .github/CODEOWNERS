@@ -1,0 +1,3 @@
+/content/news/      @your-org/team-editors
+/content/people/    @your-org/team-editors
+/content/**         @your-org/team-maintainers
