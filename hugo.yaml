@@ -1,4 +1,4 @@
-baseURL: "https://example.github.io/"   # replace with your URL
+baseURL: "https://www.asi-magnon-lab.org/"
 languageCode: "en"
 title: "Lab of ___"
 theme: "ananke"
